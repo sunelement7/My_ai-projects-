@@ -6,7 +6,7 @@ Many side projects are currently on-going in separate repositories and they will
 
 While each jupyter notebook is self-explanatory, required modules can be found in the "requirement.txt" contained in each project folder. If you wish to install the requirements, simply run `pip install -r requirements.txt` in your virtual environment. 
 
-Any questions or feedback regarding this portfolio can be kindly directed to the author, ***Sean Choi***, at ***ss.sean.choi@gmail.com*** or ***ss.choi@mail.utoronto.ca***.
+Any questions or feedback regarding this portfolio can be kindly directed to the author, ***markrowman5@gmail.com***.
 
 ## Articles and tutorials
 
